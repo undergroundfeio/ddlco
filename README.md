@@ -4,7 +4,7 @@
 
 ### A co-op multiplayer mod for DDLC
 
-![GitHub stars](https://img.shields.io/github/stars/SEU-USUARIO/SEU-REPO?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/undergroundfeio/ddlco?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-in%20development-lightgrey?style=for-the-badge)
 
 ---
