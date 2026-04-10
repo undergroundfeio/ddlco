@@ -1,4 +1,4 @@
-![logo](https://github.com/undergroundfeio/apu-z/blob/main/docs/logo.png?raw=true)
+![logo](https://github.com/undergroundfeio/ddlco/blob/main/logo.png?raw=true)
 
 # Doki Doki Literature Club! Online
 
