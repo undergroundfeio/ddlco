@@ -77,6 +77,13 @@ Built with:
 * Developed by [undergroundfeio](https://github.com/undergroundfeio)
 * Based on Doki Doki Literature Club!
 
+
+---
+
+## Discord
+
+Join our server: https://discord.gg/N7N8jmxZuv
+
 ---
 
 ## Disclaimer
@@ -85,4 +92,3 @@ This project is not affiliated with or endorsed by Team Salvato.
 
 ---
 
-Just Monika.
