@@ -59,7 +59,6 @@ https://github.com/undergroundfeio/ddlco/releases
 
 * Host: Creates a multiplayer session
 * Join: Connects using the host IP address
-* All players progress together in sync
 
 ---
 
