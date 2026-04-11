@@ -16,7 +16,7 @@ Doki Doki Literature Club! Online is a multiplayer mod that transforms DDLC into
 Players can connect in real time and share the same playthrough, with synchronized:
 
 * Dialogue
-* Choices
+* Choices (Comming soon)
 * Story progression
 
 ---
